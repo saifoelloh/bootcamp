@@ -6,9 +6,10 @@ body {
     background-color: aliceblue;
 }
 #navbar li {
-    display: inline;
+    display: inline-block;
+    margin-left: 25px;
 }
-#navbar li {
+#navbar li a {
     text-decoration: none;
     color: black;
 }
