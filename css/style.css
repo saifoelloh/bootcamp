@@ -1,0 +1,14 @@
+main {
+    margin: 0;
+    padding: 0;
+}
+#header {
+    background-color: aliceblue;
+}
+#navbar li {
+    display: inline;
+}
+#navbar li {
+    text-decoration: none;
+    color: black;
+}
