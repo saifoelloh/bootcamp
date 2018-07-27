@@ -5,6 +5,9 @@ body {
 #header {
     background-color: aliceblue;
 }
+#header {
+    margin: 0;
+}
 #navbar li {
     display: inline-block;
     margin-left: 25px;
